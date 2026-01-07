@@ -1,0 +1,10 @@
+"C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\User\Documents\Personal\Estudios\C\Tic-Tac-Toc game" -B "C:\Users\User\Documents\Personal\Estudios\C\Tic-Tac-Toc game\cmake-build-debug"
+-- The C compiler identification is GNU 14.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/User/Documents/Personal/Herramientas/Compiladores/winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (4.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/User/Documents/Personal/Estudios/C/Tic-Tac-Toc game/cmake-build-debug

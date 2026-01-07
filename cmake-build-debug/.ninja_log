@@ -1,0 +1,5 @@
+# ninja log v6
+42	203	7895186500154409	CMakeFiles/untitled.dir/main.c.obj	89293f25633768b8
+203	346	7895186501768728	untitled.exe	f64d56d2b4c6a3a0
+29	586	7895194876872624	CMakeFiles/untitled.dir/main.c.obj	a8ceef006765adc3
+587	1253	7895194882450465	untitled.exe	f64d56d2b4c6a3a0

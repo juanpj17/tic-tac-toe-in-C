@@ -1,0 +1,3 @@
+C:/Users/User/Documents/Personal/Estudios/C/Tic-Tac-Toc game/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/User/Documents/Personal/Estudios/C/Tic-Tac-Toc game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Documents/Personal/Estudios/C/Tic-Tac-Toc game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
